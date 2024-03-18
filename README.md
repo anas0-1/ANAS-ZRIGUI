@@ -10,7 +10,7 @@ I'm just starting out in the professional world, so things are a bit up in the a
 * 🖥️  See my portfolio at [will drop this soon](http://protfolio)
 * ✉️  You can contact me at [anaszrigui01@gmail.com](mailto:anaszrigui01@gmail.com)
 * 🚀  I'm currently working on [Professional Portfolio](http://app)
-* 🧠  I'm learning React and spring boot
+* 🧠  I'm learning Php laravel 
 * 🤝  I'm open to collaborating on any project that might give me a chance to prove my skills
 * ⚡  do not hesitate to contact me i m a friendly person i swear xD
 
